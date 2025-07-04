@@ -9,15 +9,17 @@ AIT SIDI HOU Mohamed
 ### Q2
 
 Le programme ouvre une fenêtre avec un bouton "Hello!" et un label.
-Quand je clique sur le bouton, le texte du label affiche "Welcome to JavaFX Application!"
+Quand je clique dessus, le texte du label affiche "Welcome to JavaFX Application!"
 
 ### Q3
 
-- src/main/java : Code source Java des classes (HelloApplication.java, HelloController.java)
-- src/main/resources : Ressources externes (fichiers FXML, images ...)
+- src/main/java : Code source Java des classes (HelloApplication.java, HelloController.java): logique de l'app
+- src/main/resources : Ressources externes (fichiers FXML, icon ...)
 
 ### Q4
-stage.setTitle("Mes tâches : AIT SIDI HOU");
+Le fichier FXML définit visuellement l’interface utilisateur.
+J’ai ouvert le fichier avec Scene Builder pour modifier l’interface.
+
 Voir dossier screenshot :
 question4.jpeg
 
@@ -31,19 +33,13 @@ Quand je clique sur le bouton 'Hello', je vois que les propriétés de ce bouton
 
 
 ### Q7
-l'action sélectionné dans la partie OnAction est :
-`onHelloButtonClick`
+Quand je clique dessus, dans l’onglet Code > OnAction, l’action liée est 'onHelloButtonClick'
+
 
 ### Q8
 Ajout de la methode onHelloButtonClickAlternatve.
 Voir code
 
-```java
-@FXML
-protected void onHelloButtonClickAlternatve() {
-    welcomeText.setText("Ma propre méthode pour afficher du texte !!");
-}
-```
 
 ### Q9
 Voir dossier screenshot :

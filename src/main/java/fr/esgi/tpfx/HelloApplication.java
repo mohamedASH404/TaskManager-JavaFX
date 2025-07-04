@@ -13,11 +13,8 @@ public class HelloApplication extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
         stage.setTitle("Mes tâches : AIT SIDI HOU");
-
-
         Image icon = new Image(getClass().getResourceAsStream("icon.png"));
         stage.getIcons().add(icon);
-
         stage.setScene(scene);
         stage.show();
     }

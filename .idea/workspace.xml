@@ -4,34 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01b3781e-650a-4501-a6df-c781d4dda1ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fr/esgi/tpfx/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fr/esgi/tpfx/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/SavedOutput.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question12-13-14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question15-16.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question21-22-23-output-data-txt.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question21-22-23.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screenshot/question9.jpeg" afterDir="false" />
+    <list default="true" id="01b3781e-650a-4501-a6df-c781d4dda1ce" name="Changes" comment="feat: JavaFX task manager with file operations and custom icon&#10;&#10;- Task CRUD operations (add, delete, list)&#10;- Auto-save/load from data.txt on startup/exit&#10;- File dialog for save/load operations&#10;- Custom application icon&#10;- Error handling with user alerts">
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mohamedASH404"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mohamedASH404/TaskManager-JavaFX.git",
+    "accountId": "c69a4751-ca97-4f55-b529-a9457384c7a6"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -120,11 +110,50 @@
       <workItem from="1751631183009" duration="1146000" />
       <workItem from="1751632634102" duration="23000" />
       <workItem from="1751632676361" duration="290000" />
-      <workItem from="1751632976264" duration="7535000" />
+      <workItem from="1751632976264" duration="10562000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: JavaFX task manager with file operations and custom icon&#10;&#10;- Task CRUD operations (add, delete, list)&#10;- Auto-save/load from data.txt on startup/exit&#10;- File dialog for save/load operations&#10;- Custom application icon&#10;- Error handling with user alerts">
+      <option name="closed" value="true" />
+      <created>1751640978930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751640978930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: JavaFX task manager with file operations and custom icon&#10;&#10;- Task CRUD operations (add, delete, list)&#10;- Auto-save/load from data.txt on startup/exit&#10;- File dialog for save/load operations&#10;- Custom application icon&#10;- Error handling with user alerts" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: JavaFX task manager with file operations and custom icon&#10;&#10;- Task CRUD operations (add, delete, list)&#10;- Auto-save/load from data.txt on startup/exit&#10;- File dialog for save/load operations&#10;- Custom application icon&#10;- Error handling with user alerts" />
   </component>
 </project>
