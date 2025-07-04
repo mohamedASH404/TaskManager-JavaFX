@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b3781e-650a-4501-a6df-c781d4dda1ce" name="Changes" comment="feat: JavaFX task manager with file operations and custom icon&#10;&#10;- Task CRUD operations (add, delete, list)&#10;- Auto-save/load from data.txt on startup/exit&#10;- File dialog for save/load operations&#10;- Custom application icon&#10;- Error handling with user alerts">
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/esgi/tpfx/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fr/esgi/tpfx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fr/esgi/tpfx/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,7 @@
       <workItem from="1751631183009" duration="1146000" />
       <workItem from="1751632634102" duration="23000" />
       <workItem from="1751632676361" duration="290000" />
-      <workItem from="1751632976264" duration="10562000" />
+      <workItem from="1751632976264" duration="11234000" />
     </task>
     <task id="LOCAL-00001" summary="feat: JavaFX task manager with file operations and custom icon&#10;&#10;- Task CRUD operations (add, delete, list)&#10;- Auto-save/load from data.txt on startup/exit&#10;- File dialog for save/load operations&#10;- Custom application icon&#10;- Error handling with user alerts">
       <option name="closed" value="true" />
