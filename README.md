@@ -1,9 +1,5 @@
 # TP JavaFX
 
-AIT SIDI HOU Mohamed
-3IABD2
-4 Juillet 2025
-
 ## Réponses
 
 ### Q2
